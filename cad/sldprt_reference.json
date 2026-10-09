@@ -1,0 +1,461 @@
+{
+  "powder_weighing_xyz_platform_RevB": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\powder_weighing_xyz_platform_RevB.step",
+    "solid_body_count": 128,
+    "volume_mm3": 25414897.987994414,
+    "bbox_min_mm": [
+      -520.0,
+      -210.0,
+      -130.0
+    ],
+    "bbox_max_mm": [
+      520.0,
+      280.0,
+      550.0
+    ],
+    "sha256": "52ccd0a0bf14c96f839c7d3f6325af16222852a74658c60aa456f3e624541836",
+    "valid": true
+  },
+  "main_lower_frame": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\main_lower_frame.step",
+    "solid_body_count": 1,
+    "volume_mm3": 6367999.999999998,
+    "bbox_min_mm": [
+      -500.0,
+      -205.0,
+      -45.0
+    ],
+    "bbox_max_mm": [
+      500.0,
+      205.0,
+      -5.0
+    ],
+    "sha256": "881f12d1b2aa25f2557041611b7de56b27cf2d7e6617f508dda4332e089d32b4",
+    "valid": true
+  },
+  "main_frame_risers": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\main_frame_risers.step",
+    "solid_body_count": 4,
+    "volume_mm3": 255999.99999999994,
+    "bbox_min_mm": [
+      -500.0,
+      -205.0,
+      -85.0
+    ],
+    "bbox_max_mm": [
+      500.0,
+      205.0,
+      -45.0
+    ],
+    "sha256": "7c4f9d048fe96f4944c5fdaa32915a4ddf16e711b57fa1918d829d19e42f99fb",
+    "valid": true
+  },
+  "gantry_column_base_plates": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\gantry_column_base_plates.step",
+    "solid_body_count": 4,
+    "volume_mm3": 110000.0,
+    "bbox_min_mm": [
+      -505.0,
+      -210.0,
+      -5.0
+    ],
+    "bbox_max_mm": [
+      505.0,
+      210.0,
+      6.0
+    ],
+    "sha256": "b43e25ef53d14ce55b01252157d692a1696d04aab23601aceb5fbd9836190725",
+    "valid": true
+  },
+  "gantry_posts": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\gantry_posts.step",
+    "solid_body_count": 4,
+    "volume_mm3": 2265600.0,
+    "bbox_min_mm": [
+      -500.0,
+      -205.0,
+      6.0
+    ],
+    "bbox_max_mm": [
+      500.0,
+      205.0,
+      360.0
+    ],
+    "sha256": "39e31fd7adc7fa4c2bfd338e8976cd3c3d48c3e96eadab08d6598c357da07c96",
+    "valid": true
+  },
+  "deck_plate": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\deck_plate.step",
+    "solid_body_count": 1,
+    "volume_mm3": 1644720.0,
+    "bbox_min_mm": [
+      -430.0,
+      -210.0,
+      -5.0
+    ],
+    "bbox_max_mm": [
+      430.0,
+      210.0,
+      0.0
+    ],
+    "sha256": "2c12684a4c1caf5d4528e50a6b4072f52c170f4a04cd71cf85f1ca000121851f",
+    "valid": true
+  },
+  "locator_A1": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\locator_A1.step",
+    "solid_body_count": 9,
+    "volume_mm3": 5661.449061570945,
+    "bbox_min_mm": [
+      -360.0,
+      -100.00000000001766,
+      0.0
+    ],
+    "bbox_max_mm": [
+      -219.99999999997567,
+      2.2326140936002048e-11,
+      8.00000000002466
+    ],
+    "sha256": "b1bac214518d88183c3474cb2f64edb7b6f019c13d4fcda83f4627947c1f12b0",
+    "valid": true
+  },
+  "locator_A2": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\locator_A2.step",
+    "solid_body_count": 9,
+    "volume_mm3": 5661.44906157096,
+    "bbox_min_mm": [
+      -220.0,
+      -100.00000000001768,
+      0.0
+    ],
+    "bbox_max_mm": [
+      -79.99999999999567,
+      1.1003642441664852e-11,
+      8.00000000002466
+    ],
+    "sha256": "f0836abc4f2bdbe82eef1989a7a9b79eb6604ac94c6d69d6d792afa5314a154d",
+    "valid": true
+  },
+  "locator_A3": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\locator_A3.step",
+    "solid_body_count": 9,
+    "volume_mm3": 5661.449061570946,
+    "bbox_min_mm": [
+      -80.0,
+      -100.0,
+      0.0
+    ],
+    "bbox_max_mm": [
+      60.00000000000233,
+      9.992007221626409e-13,
+      8.000000000004665
+    ],
+    "sha256": "6860e4363c711e8de00be2cb9dba7325736350d07eaefcb5a227d20e40a2c9f6",
+    "valid": true
+  },
+  "locator_A4": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\locator_A4.step",
+    "solid_body_count": 9,
+    "volume_mm3": 5661.449061570939,
+    "bbox_min_mm": [
+      59.99999999999767,
+      -100.0,
+      0.0
+    ],
+    "bbox_max_mm": [
+      200.0,
+      0.0,
+      8.00000000000466
+    ],
+    "sha256": "b47ee0b1706ae9a06323167e971a2103ab599f9f3f52516f196228a7e5676cf3",
+    "valid": true
+  },
+  "locator_B1": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\locator_B1.step",
+    "solid_body_count": 9,
+    "volume_mm3": 5661.44906157095,
+    "bbox_min_mm": [
+      -360.0,
+      -2.2326140936002048e-11,
+      0.0
+    ],
+    "bbox_max_mm": [
+      -219.999999999978,
+      100.00000000002233,
+      8.000000000022327
+    ],
+    "sha256": "abeeb3e29d3d400b76ba5d70636821a2db248703d8b5959d82cc337104f2e6ef",
+    "valid": true
+  },
+  "locator_B2": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\locator_B2.step",
+    "solid_body_count": 9,
+    "volume_mm3": 5661.449061570965,
+    "bbox_min_mm": [
+      -220.0,
+      -2.233591089861875e-11,
+      0.0
+    ],
+    "bbox_max_mm": [
+      -79.99999999999801,
+      100.000000000011,
+      8.000000000022327
+    ],
+    "sha256": "3527bfbf40e2b4e3f2102dd81e408d1edc3c1d6e4e41b5a6e341806aab173c9a",
+    "valid": true
+  },
+  "locator_B3": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\locator_B3.step",
+    "solid_body_count": 9,
+    "volume_mm3": 5661.44906157095,
+    "bbox_min_mm": [
+      -80.0,
+      -2.3314683517128287e-12,
+      0.0
+    ],
+    "bbox_max_mm": [
+      60.0,
+      100.000000000001,
+      8.000000000002332
+    ],
+    "sha256": "21c7bb7e6f411eb3b76928fff0edb999fe64b56a0d0a297b9aff9b21db37c39b",
+    "valid": true
+  },
+  "locator_B4": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\locator_B4.step",
+    "solid_body_count": 9,
+    "volume_mm3": 5661.449061570943,
+    "bbox_min_mm": [
+      60.0,
+      -2.3363533330211794e-12,
+      0.0
+    ],
+    "bbox_max_mm": [
+      200.0,
+      100.0,
+      8.000000000002329
+    ],
+    "sha256": "4c068c4bc11d9fbd9dd0ae644c853a7e08daca57a7abe834c085ce18e3afdcc8",
+    "valid": true
+  },
+  "wxs_independent_base": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\wxs_independent_base.step",
+    "solid_body_count": 1,
+    "volume_mm3": 849999.9999999999,
+    "bbox_min_mm": [
+      195.0,
+      -105.0,
+      -110.0
+    ],
+    "bbox_max_mm": [
+      365.0,
+      145.0,
+      -90.0
+    ],
+    "sha256": "896b6779aa463ed5119895a73944e7c785c9950dd69abceb51011e817e401154",
+    "valid": true
+  },
+  "wxs_flat_mount_plate": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\wxs_flat_mount_plate.step",
+    "solid_body_count": 1,
+    "volume_mm3": 261620.00000000003,
+    "bbox_min_mm": [
+      216.5,
+      -85.5,
+      -90.0
+    ],
+    "bbox_max_mm": [
+      343.5,
+      120.5,
+      -80.0
+    ],
+    "sha256": "31bcfbd2c16567de117288837f1bf6847f14877e5b3b053daeaf092545177e78",
+    "valid": true
+  },
+  "wxs_connected_tray_seat": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\wxs_connected_tray_seat.step",
+    "solid_body_count": 1,
+    "volume_mm3": 24478.031428814083,
+    "bbox_min_mm": [
+      209.99999999999534,
+      -2.3363533330211794e-12,
+      -6.5
+    ],
+    "bbox_max_mm": [
+      350.0,
+      100.000000000001,
+      8.000000000002338
+    ],
+    "sha256": "1a8eb05086781a4327544ac1ec7dad33429a83174e3e71825fd01217943fdedc",
+    "valid": true
+  },
+  "spill_tray_rear_right": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\spill_tray_rear_right.step",
+    "solid_body_count": 1,
+    "volume_mm3": 3719.999999999998,
+    "bbox_min_mm": [
+      212.0,
+      0.0,
+      0.0
+    ],
+    "bbox_max_mm": [
+      358.0,
+      170.0,
+      2.0
+    ],
+    "sha256": "1dc04c7b3ef6c72f2cd1f495af8de41a765dbbebca8c111c11ce440829a33109",
+    "valid": true
+  },
+  "spill_tray_front_left": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\spill_tray_front_left.step",
+    "solid_body_count": 1,
+    "volume_mm3": 72.0,
+    "bbox_min_mm": [
+      212.0,
+      -70.0,
+      0.0
+    ],
+    "bbox_max_mm": [
+      218.0,
+      -64.0,
+      2.0
+    ],
+    "sha256": "a8037ea8854aaad242b05e0d48c0f171c25694fe4192562fd01455aadb5cb689",
+    "valid": true
+  },
+  "spill_tray_front_right": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\spill_tray_front_right.step",
+    "solid_body_count": 1,
+    "volume_mm3": 191.99999999999997,
+    "bbox_min_mm": [
+      342.0,
+      -70.0,
+      0.0
+    ],
+    "bbox_max_mm": [
+      358.0,
+      -64.0,
+      2.0
+    ],
+    "sha256": "4061723cb837219620175062d25b62738c80033ed891484815214c31edd9b9f4",
+    "valid": true
+  },
+  "tool_rack": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\tool_rack.step",
+    "solid_body_count": 1,
+    "volume_mm3": 72000.0,
+    "bbox_min_mm": [
+      220.0,
+      -170.0,
+      0.0
+    ],
+    "bbox_max_mm": [
+      340.0,
+      -70.0,
+      6.0
+    ],
+    "sha256": "bcb07e0f8ced64269288757a425aff882874c6139523b1fcfbde85fc84714bf3",
+    "valid": true
+  },
+  "x_crossbeam": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\x_crossbeam.step",
+    "solid_body_count": 1,
+    "volume_mm3": 4608000.0,
+    "bbox_min_mm": [
+      -480.0,
+      70.0,
+      430.0
+    ],
+    "bbox_max_mm": [
+      480.0,
+      130.0,
+      510.0
+    ],
+    "sha256": "1af937b4a56ef0b5154ece323b386bd2014911267a4548b95942ad2b8f094473",
+    "valid": true
+  },
+  "z_mount_adapter": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\z_mount_adapter.step",
+    "solid_body_count": 1,
+    "volume_mm3": 112000.0,
+    "bbox_min_mm": [
+      -70.0,
+      20.0,
+      430.0
+    ],
+    "bbox_max_mm": [
+      70.0,
+      30.0,
+      510.0
+    ],
+    "sha256": "0a7c7858ce4d9316047fc2e8292f3af83037e949c2b61503e46e4262e298b44a",
+    "valid": true
+  },
+  "z_backplate": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\z_backplate.step",
+    "solid_body_count": 1,
+    "volume_mm3": 792000.0,
+    "bbox_min_mm": [
+      -60.0,
+      5.0,
+      70.0
+    ],
+    "bbox_max_mm": [
+      60.0,
+      20.0,
+      510.0
+    ],
+    "sha256": "6d7f25593e04dfcc31489ed193aa1d0a97cdef5ca60fc229769ab84cc9e0cb88",
+    "valid": true
+  },
+  "z_motor_mount": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\z_motor_mount.step",
+    "solid_body_count": 1,
+    "volume_mm3": 36000.0,
+    "bbox_min_mm": [
+      -60.0,
+      -25.0,
+      470.0
+    ],
+    "bbox_max_mm": [
+      60.0,
+      5.0,
+      480.0
+    ],
+    "sha256": "8f8bd125899290ad315cae936c8e773641ff52833b263af825238859e4e51494",
+    "valid": true
+  },
+  "quick_change_reserved_plate": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\quick_change_reserved_plate.step",
+    "solid_body_count": 1,
+    "volume_mm3": 31999.999999999996,
+    "bbox_min_mm": [
+      -50.0,
+      -70.0,
+      232.0
+    ],
+    "bbox_max_mm": [
+      50.0,
+      -30.0,
+      240.0
+    ],
+    "sha256": "d19a8f88c66811df21f4c696cc0709db0c8350763042d80c906aa6fd9b42de07",
+    "valid": true
+  },
+  "ion_bar_supported_bracket": {
+    "source": "C:\\Users\\22548\\Documents\\ChatGPT\\加粉粉桶装置设计\\粉末称量平台_设计包\\RevB_结构修订\\cad\\parts\\ion_bar_supported_bracket.step",
+    "solid_body_count": 1,
+    "volume_mm3": 12199.999999999998,
+    "bbox_min_mm": [
+      395.0,
+      30.0,
+      0.0
+    ],
+    "bbox_max_mm": [
+      430.0,
+      70.0,
+      70.0
+    ],
+    "sha256": "a72ae2cab645ca38fafc7fd11a1402646191d159978e1ab57b39fbc67f60ed70",
+    "valid": true
+  }
+}
