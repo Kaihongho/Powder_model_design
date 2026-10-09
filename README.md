@@ -1,2 +1,3 @@
-目前最新的三轴平台在cad文件中，powder_weighing_xyz_platform_RevB.step和powder_weighing_xyz_platform_RevB.SLDPRT。
+目前最新的三轴平台在cad文件中，powder_weighing_xyz_platform_RevB.step和powder_weighing_xyz_platform_RevB.SLDPRT
+
 drawings中是图纸
