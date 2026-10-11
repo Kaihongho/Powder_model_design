@@ -1,0 +1,453 @@
+{
+  "scope": "第4.4节三轴龙门 + 新粉桶自动夹持 + 独立单桶停车接口；无内部摆盘",
+  "status": "几何交付用于厂家技术评审及核价；正式采购版本、实物载荷、关键工艺及实机验收待确认",
+  "strokes_mm": [
+    700,
+    260,
+    320
+  ],
+  "solids": 478,
+  "native_part": "SolidWorks原生多实体SLDPRT，不是参数化SLDASM",
+  "files": [
+    {
+      "path": "00_先读我_结构操作与未定项.txt",
+      "bytes": 7867,
+      "sha256": "87fd4fc1157105ffaa5bbdb50b1bc1e05c010b5fc57587795424e00df0cc2d77"
+    },
+    {
+      "path": "GANTRY44_AUTO_BUCKET.SLDPRT",
+      "bytes": 15426187,
+      "sha256": "ea807c19fad9b485ff81829a97252d2bc062bfd1dfe905b4057a8934232a6511"
+    },
+    {
+      "path": "GANTRY44_AUTO_BUCKET.step",
+      "bytes": 61930955,
+      "sha256": "e0a5feefb4681abbe9e30c594b69126ec1ed25ab9a17dcbeb2f989536c15099f"
+    },
+    {
+      "path": "二维投影DXF/B-A01.dxf",
+      "bytes": 186263,
+      "sha256": "cd23e5d243609a061afd4f1f8fed252dc59b4cd466cddd34ba2c882cd309b679"
+    },
+    {
+      "path": "二维投影DXF/B-A02.dxf",
+      "bytes": 88833,
+      "sha256": "6cf5b8084dc2b33fc76da16e905634684375c6a98ca47b1f084f5a715a6c0065"
+    },
+    {
+      "path": "二维投影DXF/B-A03.dxf",
+      "bytes": 6841,
+      "sha256": "55c575283d0c30db920213e7ad1d8d2f403cc4f1c069d29a366dcf2102636815"
+    },
+    {
+      "path": "二维投影DXF/C-A01.dxf",
+      "bytes": 183052,
+      "sha256": "455463bf5efcb5cb9b419472a733ca4e9f7d4cd0d428dc49d10a49fc67c8b1a6"
+    },
+    {
+      "path": "二维投影DXF/C-A02.dxf",
+      "bytes": 56014,
+      "sha256": "7dfcd8088740091fe0be4018f0e3290cd07298e2c8104849e8caafbd3c7fadf8"
+    },
+    {
+      "path": "二维投影DXF/C-A03_L_R.dxf",
+      "bytes": 38598,
+      "sha256": "b7c7d1a54c7789579923636c58e9ed7cd72c77265cf215995c85574293cede5e"
+    },
+    {
+      "path": "二维投影DXF/D-A01.dxf",
+      "bytes": 35661,
+      "sha256": "fe4a657734ccd3cfe860d6e57f8143b27fb15a27b54b21b228927c027475ca8b"
+    },
+    {
+      "path": "二维投影DXF/D-A02.dxf",
+      "bytes": 96521,
+      "sha256": "cf06a1c32e74def8833295f1fae2d0c00694425ae7fa1bb4cf5aae475cf15f48"
+    },
+    {
+      "path": "二维投影DXF/D-A03.dxf",
+      "bytes": 36981,
+      "sha256": "cb5bf819bc4c74d6aefedabd34bcf744f39f47b3ca5d8136e9d0141efb9bed28"
+    },
+    {
+      "path": "二维投影DXF/G44-A01.dxf",
+      "bytes": 69893,
+      "sha256": "5981cc94bb46a52381bc59bb1d1d93287ef35d1ce3a595e21f825526ec7be60f"
+    },
+    {
+      "path": "二维投影DXF/G44-A02.dxf",
+      "bytes": 60313,
+      "sha256": "979ebbc8a1145457e004f09d307ae2944b77e84c190ecc4714a8a15a5546c7a8"
+    },
+    {
+      "path": "二维投影DXF/G44-B00.dxf",
+      "bytes": 382339,
+      "sha256": "a0bc38b57f90d3bafd46e6e928b8c2295b6c4a92acc5ddcdac0234e0dd816162"
+    },
+    {
+      "path": "二维投影DXF/G44-F00.dxf",
+      "bytes": 161462,
+      "sha256": "4be4c2616d8264042c6693d6b5cc0f26ffc196b913e979c7af618adc66ee766a"
+    },
+    {
+      "path": "二维投影DXF/G44-N60.dxf",
+      "bytes": 7596,
+      "sha256": "295e61444d4e76e95fc41c1548e648e5b8a4f0b46ca99e445a4a694d740f4d03"
+    },
+    {
+      "path": "二维投影DXF/G44-N80.dxf",
+      "bytes": 6883,
+      "sha256": "a7c80f2c2323d66541dfc5f64f76873faae5be6f9bedbc11782cd4e280ca1ff4"
+    },
+    {
+      "path": "分件STEP/夹具与随桶保持件/B-A01_lid_AUTO_SWAP_derived.step",
+      "bytes": 105930,
+      "sha256": "50742d45829ae6301fc604a4fc46af457b9fd7c2abd2ecc32d74c08de9f5aaf0"
+    },
+    {
+      "path": "分件STEP/夹具与随桶保持件/B-A02_bucket_tie_post_-1.step",
+      "bytes": 34005,
+      "sha256": "c11870d7fe8b6dcf923b52b4621598d572979c6267fac0281d8e5b25f1674634"
+    },
+    {
+      "path": "分件STEP/夹具与随桶保持件/B-A02_bucket_tie_post_1.step",
+      "bytes": 33956,
+      "sha256": "5880cbc773129ee186cf904b1dd0ac587432a1c81dfb7e36a33cb4c625306fae"
+    },
+    {
+      "path": "分件STEP/夹具与随桶保持件/B-A03_bucket_retention_foot_-1.step",
+      "bytes": 22313,
+      "sha256": "d671e0c38f659fe70eedea11e2a33cdbe1ac59ab8e68e4b5da8a90fb03e075bb"
+    },
+    {
+      "path": "分件STEP/夹具与随桶保持件/B-A03_bucket_retention_foot_1.step",
+      "bytes": 21090,
+      "sha256": "9a67e22fa47d8a14344c7c858644e3120d4ab9926512748c98eb50a6b8e350e9"
+    },
+    {
+      "path": "分件STEP/夹具与随桶保持件/C-A01_head_capture_and_rear_bracket.step",
+      "bytes": 214232,
+      "sha256": "7d2373175b6a5b8b05e730e2c4fe7f30ef442b506c793f5db93d401410e334b7"
+    },
+    {
+      "path": "分件STEP/夹具与随桶保持件/C-A02_head_capture_cap.step",
+      "bytes": 31679,
+      "sha256": "b9a53567fe522a2103aea202b96f2fa8d1ae0eb86a8921c4f72c2a2fabb6bef9"
+    },
+    {
+      "path": "分件STEP/夹具与随桶保持件/C-A03_positive_capture_finger_-1.step",
+      "bytes": 77031,
+      "sha256": "6bfdb13435770106c4dcafa2696d9a125c0b7120c813f13af82dd1e1d0fcdfc1"
+    },
+    {
+      "path": "分件STEP/夹具与随桶保持件/C-A03_positive_capture_finger_1.step",
+      "bytes": 72262,
+      "sha256": "28a5369afb285e10498cfcecaaea1246ae23c36176a2c476ac103dfea22eefac"
+    },
+    {
+      "path": "分件STEP/独立停车座/D-A01_dock_base.step",
+      "bytes": 46909,
+      "sha256": "fc707c25889de412783a466ea4f8f44f31e65cd386272d61037ab394a23c6857"
+    },
+    {
+      "path": "分件STEP/独立停车座/D-A02_flange_support_seat.step",
+      "bytes": 76128,
+      "sha256": "e85509bd2bf1cf8e1d086a85a1b659436b8ea24bde3ce81f582e1f831c6bca86"
+    },
+    {
+      "path": "分件STEP/独立停车座/D-A03_support_post_-1.step",
+      "bytes": 18895,
+      "sha256": "dee9ec46795ce96e52a3edd78c0e75ce2908a5b44d856a78be8b4b67a5df0e69"
+    },
+    {
+      "path": "分件STEP/独立停车座/D-A03_support_post_1.step",
+      "bytes": 18861,
+      "sha256": "0de99497e106ec1fc1799d8599d0f9bef530aedc7e14168546a91df743c2c5e9"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/A_Z_fixed_backplate.step",
+      "bytes": 62972,
+      "sha256": "df448255658adb4ea439f79217abed654de8f08df7cd0047e4a115a5c334c60b"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/A_Z_tool_drop.step",
+      "bytes": 99618,
+      "sha256": "d53b7876447edbb3b6826e7393c38fdc83ce9d7ce32717c7a455c96a8397e911"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/B_crossbeam.step",
+      "bytes": 297744,
+      "sha256": "c54b949e603c941d4a1c0fbf6e402e77994ffadd0639b870730d72a14a78fc9f"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/B_sole_L.step",
+      "bytes": 64445,
+      "sha256": "0e52d4dec46006e7aafb3eca62873f781113f72e538f4d71ef24d3c9beaa1c50"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/B_sole_R.step",
+      "bytes": 64341,
+      "sha256": "b2e6855097661c09811a811c50ef38d8e1d89da1fb65e7a95bb19a6b274cf774"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/F_cross_lower_front.step",
+      "bytes": 33225,
+      "sha256": "36d72af80402d0f215c0d82ba046d72fe94b6b8c55ab7faf0521d8f23aca4664"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/F_cross_lower_rear.step",
+      "bytes": 33169,
+      "sha256": "30b60a5e50676fced5ed2e8863acc808230008c40ecde857d272891521744ada"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/F_foot_boss_L_front.step",
+      "bytes": 12136,
+      "sha256": "99a50cc50eaa79db1107675a457ac6f3e4a840dc1b49ed0c36c1f160515708fe"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/F_foot_boss_L_rear.step",
+      "bytes": 12116,
+      "sha256": "04e6c3b4c54310c1a4973e1944464f4fa7ec6cef5412ff44da32f8409e86dfb9"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/F_foot_boss_R_front.step",
+      "bytes": 12122,
+      "sha256": "a80dcc9339e84cdbf0f5983ddb1d2cf04fd5a540645b075c7c269f18dcf91401"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/F_foot_boss_R_rear.step",
+      "bytes": 12102,
+      "sha256": "964a58425de9010a543d462eba7474a775a95bfa735e708025191160d503f928"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/F_post_L_front.step",
+      "bytes": 33029,
+      "sha256": "068b7c332173a3ddf5f65582990fce3f41a90d00271799a09066e561aacf0ac4"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/F_post_L_rear.step",
+      "bytes": 33088,
+      "sha256": "c73bf248464f6973bb3d281b797289766a3b1cba95b0aedecb93fd5c16838f9a"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/F_post_R_front.step",
+      "bytes": 32980,
+      "sha256": "36333b0de59da9bb83eb10b71780d26cba02568099ee26babf09b14c206b01b7"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/F_post_R_rear.step",
+      "bytes": 33039,
+      "sha256": "c68371935801fdb314c268ee49698a801a9088c132091fa53e56d1a5fbd2f1d7"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/F_side_lower_L.step",
+      "bytes": 33137,
+      "sha256": "21e96d5c4932acc5d84f77424dcd82a4b0928e8942656d165538cf8f99591410"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/F_side_lower_R.step",
+      "bytes": 33088,
+      "sha256": "c2ac044ee78811d7612b70ffb2380f99aa9e95bc91050ac2ecb0f61ffe4cb504"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/F_top_cap_L.step",
+      "bytes": 40244,
+      "sha256": "ab4c86083dd92d807f89d6eaac4ec39abb5ea402cca14dafec4a2f98bb9ebbb8"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/F_top_cap_R.step",
+      "bytes": 40182,
+      "sha256": "2a3d4c5aa75e396007b74df698366f84258373e03e08606e98908072c3a31fe4"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/F_top_rail_L.step",
+      "bytes": 98322,
+      "sha256": "7507ec3b7add6df13adb622b6473b46c04ec871eb9bd84ad7b9fa4e12a2d78c5"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/F_top_rail_R.step",
+      "bytes": 98164,
+      "sha256": "610e6a6433ba249cb1ffd42e40a2de02e4f9ae95560e7063bbd4573c397523e3"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/FSL60_M6_slot_nut_local.step",
+      "bytes": 21961,
+      "sha256": "0f367a2e32ab8a8830705912175c4b3f2c68abdae7cf8b34f5b5aa382757d761"
+    },
+    {
+      "path": "分件STEP/龙门机架与连接件/FSL80_M6_slot_nut_local.step",
+      "bytes": 21564,
+      "sha256": "74e9e49dddf293021407faf5d18c9bb0d0ced65a6a5080b6dc19a0f1e351e102"
+    },
+    {
+      "path": "初步载荷与刚度预算.txt",
+      "bytes": 5221,
+      "sha256": "5d06e6f312f832b0a0107fa807399d96c7e84aed25109684fc0eb47019314810"
+    },
+    {
+      "path": "复核记录/axis_tnut_interfaces.json",
+      "bytes": 3290,
+      "sha256": "89a4a4a7ce780899f622d8fd0a2fa1d4d2df71dff4012f7ba418510f4054217b"
+    },
+    {
+      "path": "复核记录/BOM_saved_file_check.json",
+      "bytes": 724,
+      "sha256": "4ab7cdf4f15fa6fb26cb63420ff1ad11b3816a56bf857ebf791ee409a4b8d40d"
+    },
+    {
+      "path": "复核记录/BOM_validation.json",
+      "bytes": 1958,
+      "sha256": "4ded9c566dd09eafb26f9a4a39829dbe8a7f114d052a5a6da0726783ea25e10a"
+    },
+    {
+      "path": "复核记录/clamp_manufacturing_dimensions.json",
+      "bytes": 6502,
+      "sha256": "b07c4638f6f1de1748336a7b58978e70d2748c4d2b3d3ecb48e312df77214d6b"
+    },
+    {
+      "path": "复核记录/clamp_STEP_roundtrip.json",
+      "bytes": 3888,
+      "sha256": "80bd7b850f0cb2d79c13397c3a7931267774e46f4b1559ddd0caeec4a9db5eed"
+    },
+    {
+      "path": "复核记录/clamp_validation.json",
+      "bytes": 8236,
+      "sha256": "b79685c6bb050c97678da48595957be9db810806393d7ae465d93fce1b433804"
+    },
+    {
+      "path": "复核记录/D_dock_blind_hole_revision.json",
+      "bytes": 7895,
+      "sha256": "c521ec8b6a71322f6bf6b0e5e075cb017a88786086dfd4d7bc7b95f5cb370512"
+    },
+    {
+      "path": "复核记录/DXF_validation.json",
+      "bytes": 2390,
+      "sha256": "52d8f49a64417bf553776a700be8452b8721c829e2a96c27b7f4b05cded1ed50"
+    },
+    {
+      "path": "复核记录/FSL60_duplicate_instances.json",
+      "bytes": 1479,
+      "sha256": "4d0dd41fadbbfa2c9777afcde071180efeb3f3a7483c1a0000ea1c41bc55c48a"
+    },
+    {
+      "path": "复核记录/independent_final_geometry_binding.json",
+      "bytes": 24259,
+      "sha256": "9536d36f45ccae602c1803b95ffdfb8aa9c51948f04669a8267ab35d49d9c0a0"
+    },
+    {
+      "path": "复核记录/independent_integrated_geometry_audit.json",
+      "bytes": 40085,
+      "sha256": "5f2a1bf46a2f6d36c8baa343d034921b155a9a6bf3314e1f71e8433fce50d674"
+    },
+    {
+      "path": "复核记录/native_bucket_geometry_summary.json",
+      "bytes": 902,
+      "sha256": "0dc7f819581ef157136dd2f081d187ca45f7b348a4773a0ee2ceda24b17ae42e"
+    },
+    {
+      "path": "复核记录/native_gantry_validation.json",
+      "bytes": 2530,
+      "sha256": "729b1eeae2527a7e561969a88b7bdfd41d0d977d108770e1c8337962e55212c7"
+    },
+    {
+      "path": "复核记录/new_bucket_audit.json",
+      "bytes": 9500,
+      "sha256": "bcab68c6d88fc6c71bd6dee5d31647d2b769ec187a1749c5115ec97cd811474f"
+    },
+    {
+      "path": "复核记录/PDF_validation.json",
+      "bytes": 735,
+      "sha256": "3d1e5d1696822fd3def1b15ac401b8cb56edf5a49e5b19dfb3006cf59dbeaf16"
+    },
+    {
+      "path": "复核记录/preliminary_load_budget.json",
+      "bytes": 44172,
+      "sha256": "365b53d2eaa9c9516a5162e3a150b37199eefd1f7fc7f47350d85c2facd298c9"
+    },
+    {
+      "path": "复核记录/Z_sensor_continuous_sweep.json",
+      "bytes": 7974,
+      "sha256": "e287dee30cdf5f1b1e52bee3baf47ea0b13f782f9ab85f5bb425a186d397a066"
+    },
+    {
+      "path": "工具与停车座STEP/automatic_clamp_CLOSED.step",
+      "bytes": 735306,
+      "sha256": "5b3b761eb651cb9c77e2f3fe6e1c09c67acc108cefaba99b5440deb16ef5fe72"
+    },
+    {
+      "path": "工具与停车座STEP/automatic_clamp_OPEN.step",
+      "bytes": 735306,
+      "sha256": "73b426b39a1afe288a962dde835eaa00b575987b66a78ac211cd4984895de76b"
+    },
+    {
+      "path": "工具与停车座STEP/independent_single_bucket_dock.step",
+      "bytes": 201237,
+      "sha256": "1cbebe004958e8b877e27db9b8aa8c3519fd3084de33789d25a3a619e42d8366"
+    },
+    {
+      "path": "工具与停车座STEP/new_bucket_AUTO_SWAP_derived_reference.step",
+      "bytes": 19422961,
+      "sha256": "c7822abc25da511659d7190c331232970f808462d4a1b9597e84e9b9b7cec7f3"
+    },
+    {
+      "path": "工具与停车座STEP/new_bucket_clamp_on_independent_dock.step",
+      "bytes": 20427773,
+      "sha256": "960a3e85882eeae78804a515c50d10572c8579e12bf7cb9191996f194c99fa14"
+    },
+    {
+      "path": "工具与停车座STEP/new_bucket_with_automatic_clamp_CLOSED.step",
+      "bytes": 20212401,
+      "sha256": "9072eb5e3f19a8d1169c94767b648335e593543f198a8f8eb605f8431deac1ec"
+    },
+    {
+      "path": "工具与停车座STEP/new_bucket_with_automatic_clamp_OPEN.step",
+      "bytes": 20212403,
+      "sha256": "0af439f214d497d21b2c13476a4f0f9c1f82db7f01603a18017dc3cda3c5ed10"
+    },
+    {
+      "path": "模型预览/automatic_clamp_front.png",
+      "bytes": 55180,
+      "sha256": "4165d289c4919e51859bfd7fee92153bc4ca3fe0c55463c471e1e407767bea42"
+    },
+    {
+      "path": "模型预览/automatic_clamp_rear.png",
+      "bytes": 51547,
+      "sha256": "de6ad42a9f2e170b40828518e6506a01c2861296bd97815871519d1194ef6026"
+    },
+    {
+      "path": "模型预览/gantry44_clamp_detail.png",
+      "bytes": 44112,
+      "sha256": "cb99f980a95cf503ff0a800415d109d5c2ad9b85452e8e7c805938e5884a49ab"
+    },
+    {
+      "path": "模型预览/gantry44_front.png",
+      "bytes": 30852,
+      "sha256": "018e6db08fe025a1fb62666066c766ec38002aac224e3050f9f81eb8893357ec"
+    },
+    {
+      "path": "模型预览/gantry44_overview.png",
+      "bytes": 73224,
+      "sha256": "b9ce5da7a4f0dbbd82d1db687a5a0e9db475e9e25f0d43872c69504058851139"
+    },
+    {
+      "path": "模型预览/gantry44_side.png",
+      "bytes": 35022,
+      "sha256": "8218cc651d666efad1bd3d10fb9f3ddd80f56d785388c90bc7bb1db2f521ed04"
+    },
+    {
+      "path": "结构审查与源内例外.txt",
+      "bytes": 3999,
+      "sha256": "b3ea81231a13f1f0f586b1e5be89360a9badfca981c5b06e929de724376ef076"
+    },
+    {
+      "path": "龙门架_BOM.xlsx",
+      "bytes": 25897,
+      "sha256": "61c3e8537f1ea28c44271221395669de6fb2a2d8e26deae80aa962cb1408b87f"
+    },
+    {
+      "path": "龙门架_总装与接口尺寸图.pdf",
+      "bytes": 613348,
+      "sha256": "e8226f99d3da9c943d2a76b6c48e094bb08817566702218de4a1e0b3b9e9d2fd"
+    }
+  ]
+}
